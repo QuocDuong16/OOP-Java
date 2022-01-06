@@ -1,0 +1,4 @@
+E1;Nguyen Vo Quoc Duong;20;male;TPHCM;25000.0;36;PT
+E2;Nguyen Thanh Duy;20;male;TPHCM;32000.0;5;FT
+E3;Dang Duy Thanh Cong;21;male;TPHCM;30000.0;4;FT
+E4;Mai Van Duong;20;male;TPHCM;26000.0;58;PT

@@ -1,0 +1,5 @@
+C1;Nguyen Van C;32;male;DN;0583759173;vancnguyen@gmail.com
+C2;Nguyen Thi B;26;female;Hue;0584739672;nguyenthib@gmail.com
+C3;Tran Van C;26;male;HN;0957385728;tranvanc@gmail.com
+C4;Cao Thanh T;21;female;TPHCM;0938573647;thanhtrang@gmail.com
+C5;Vu Trong P;45;male;none;0986738572;trongp@gmail.com

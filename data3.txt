@@ -1,0 +1,4 @@
+Znake;IPhone 7;Apple;3590000;2016;SP
+NianD;SamSung Z Fold 3 5G;Samsung;43990000;2021;SP
+CongDang;Oppo A74;Oppo;6690000;2020;SP
+MCDuong;Iphone 13 pro max;Apple;36000000;2021;SP
